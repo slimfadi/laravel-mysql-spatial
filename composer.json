@@ -6,7 +6,7 @@
         "test:unit": "phpunit -c phpunit.xml.dist --testsuite unit",
         "test:integration": "phpunit -c phpunit.xml.dist --testsuite integration"
     },
-    "type": "library",
+    "type": "wordpress-theme",
     "license": "MIT",
     "authors": [
         {
